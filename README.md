@@ -17,9 +17,10 @@ We’re happy you’re here! At Govrn we think the best ideas come from the comm
 #### Pull Request Process 
 1.  Make a github account if you don't already have one
 2.  Fork the white paper repo
-3.  Edit the white paper section
+3.  Edit the white paper section 
 4.  Create a pull request (PR) from your white paper branch to Govrn's
 5.  We'll merge it as soon as we see it!
+6.  Remember to click "fetch upstream" before your next PR requests so you always have the most recent white paper version
 
 ## The Govrn team will be focused on keeping this repo
 
