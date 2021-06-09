@@ -50,5 +50,6 @@ Govrn aligns the concept of evidence-based policymaking and data-driven governan
 
 <a name="myfootnote3"><sub>3</sub></a>: <sub>More info on Chief Data Officers’ roles [here.](https://www.innovations.harvard.edu/sites/default/files/Data-Driven-Government.pdf)</sub>
 
+By Linus
 
 
