@@ -8,11 +8,13 @@ We’re happy you’re here! At Govrn we think the best ideas come from the comm
 
 📖  Subscribe to the Govrnance [substack](https://govrnance.substack.com/)
 
-☎️  Add the community call to your calendar 
+☎️  Join our [discord](https://discord.gg/td5akZ7DMX)  
 
-👀  Learn more about Govrn 
+👀  Learn more about Govrn
 
-## The Govrn team will be focused on keeping this repo:
+## Instructions on how to Contribute
+
+## The Govrn team will be focused on keeping this repo
 
 📖 Readable
 
