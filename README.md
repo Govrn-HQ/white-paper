@@ -8,11 +8,20 @@ We’re happy you’re here! At Govrn we think the best ideas come from the comm
 
 📖  Subscribe to the Govrnance [substack](https://govrnance.substack.com/)
 
-☎️  Add the community call to your calendar 
+🎊  Join our [discord](https://discord.gg/td5akZ7DMX)  
 
-👀  Learn more about Govrn 
+👀  Learn more about [Govrn](https://www.govrn.io/)
 
-## The Govrn team will be focused on keeping this repo:
+## Instructions on how to Contribute
+
+#### Pull Request Process 
+1.  Make a github account if you don't already have one
+2.  Fork the white paper repo
+3.  Edit the white paper section
+4.  Create a pull request (PR) from your white paper branch to Govrn's
+5.  We'll merge it as soon as we see it!
+
+## The Govrn team will be focused on keeping this repo
 
 📖 Readable
 
@@ -28,7 +37,7 @@ This is a community effort, so please feel free to respond to each other’s com
 
 🙈 Fun
 
-We host community calls and live editing sessions during each white paper section. Email Christine (christine@govrn.io) for info.
+We host community calls and live editing sessions during each white paper section. Join our [discord](https://discord.gg/td5akZ7DMX) for more info.
 
 👋 Welcoming
 
