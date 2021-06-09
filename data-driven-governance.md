@@ -44,11 +44,11 @@ Govrn aligns the concept of evidence-based policymaking and data-driven governan
 
 
 ###### Footnotes
-<a name="myfootnote1">1</a>: The calls for data-driven governance started [decades ago.]( https://issues.org/esty-2/)
+<a name="myfootnote1"><sub>1</sub></a>: <sub>The calls for data-driven governance started [decades ago.]( https://issues.org/esty-2/)</sub>
 
-<a name="myfootnote2">2</a>: It’s really important to remember that not all regions have equal access to open data portals and data availability/quality.  Data deserts, data gaps, and the digital divide are pressing problems in the data-driven governance age.
+<a name="myfootnote2"><sub>2</sub></a>: <sub>It’s really important to remember that not all regions have equal access to open data portals and data availability/quality.  Data deserts, data gaps, and the digital divide are pressing problems in the data-driven governance age.</sub>
 
-<a name="myfootnote3">3</a>: More info on Chief Data Officers’ roles [here.](https://www.innovations.harvard.edu/sites/default/files/Data-Driven-Government.pdf)
+<a name="myfootnote3"><sub>3</sub></a>: <sub>More info on Chief Data Officers’ roles [here.](https://www.innovations.harvard.edu/sites/default/files/Data-Driven-Government.pdf)</sub>
 
 
 
