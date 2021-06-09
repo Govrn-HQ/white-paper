@@ -11,7 +11,7 @@ At Govrn, we view outcome-based donations (OBDs) as an idea that combines innova
 
 It’s worth mentioning that our work exists in the broader context of a governance renaissance.  So many people and organizations are rethinking the roles of institutions, governance, and civic engagement to create more equitable, transparent, and participatory systems better able to address complex problems.
 
-There’s no way we can cover all of what is going on in the space. But we do want to highlight some amazing work by others to both set the context for the broader idea of governance innovation and to explain where some of the ideas for Govrn come from.
+There’s no way we can cover all of what is going on in the space.  But we do want to highlight some amazing work by others to both set the context for the broader idea of governance innovation and to explain where some of the ideas for Govrn come from.
 
 Last time we talked about [collective intelligence](https://docs.google.com/document/d/1phkYLT4f0KWPdjAsuAmK0cNlRE4ILej0kKb27WamAk4/edit).  This week we’re diving into data-driven governance, where we’ll introduce a few key terms and dive into how Govrn contributes to the ecosystem.
 
@@ -37,7 +37,7 @@ Data-driven governance is awesome, but not if you over index on the “wrong” 
 
 ### Connects Stakeholders throughout Governance Lifecycle
 
-Data-driven governance has many stakeholders, and Govrn connects them all in one place. Constituents, domain experts, community leaders, and politicians are able to organize around collectively agreed upon goals and metrics.  And more importantly, they have the option to stay connected throughout the entire governance lifecycle.  This includes everything from defining a public problem, signalling demand for data, iterating on goals and metrics, critiquing the implementation, and evaluating the impact of the solution. 
+Data-driven governance has many stakeholders, and Govrn connects them all in one place.  Constituents, domain experts, community leaders, and politicians are able to organize around collectively agreed upon goals and metrics.  And more importantly, they have the option to stay connected throughout the entire governance lifecycle.  This includes everything from defining a public problem, signalling demand for data, iterating on goals and metrics, critiquing the implementation, and evaluating the impact of the solution. 
 
 ### Incentivizes Results through Campaign Finance
 Govrn aligns the concept of evidence-based policymaking and data-driven governance with a very powerful lever: campaign finance.  Right now there is high public demand for evidence-based policymaking and data-driven governance, but there’s no direct mechanism to invest in these processes.  Investing in politicians who operate this way is a direct way to support this type of governance.  
