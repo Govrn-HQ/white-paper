@@ -1,12 +1,12 @@
-### Data-driven-governance
+# Data-driven-governance
 
 Title: Data-Driven Governance
 Version:  v.01
 Date: 6/8/2021
 
-### Existing Research and Innovations
+# Existing Research and Innovations
 
-## Introduction
+# Introduction
 At Govrn, we view outcome-based donations (OBDs) as an idea that combines innovations and research that already exist in unique ways.  We’re bridging connections between related ideas to try something new.  Read more about Govrn and OBDs here.
 
 It’s worth mentioning that our work exists in the broader context of a governance renaissance.  So many people and organizations are rethinking the roles of institutions, governance, and civic engagement to create more equitable, transparent, and participatory systems better able to address complex problems.
@@ -15,7 +15,7 @@ There’s no way we can cover all of what is going on in the space. But we do wa
 
 Last time we talked about collective intelligence.  This week we’re diving into data-driven governance, where we’ll introduce a few key terms and dive into how Govrn contributes to the ecosystem.
 
-## Data-Driven Governance
+# Data-Driven Governance
 
 In 2013, the US federal government recognized that publicly opening their data would strengthen democracy, improve government services, grow the economy, and increase social good.  In a step towards open government, President Obama signed an executive order “making open and machine readable the new default for government information” and creating an Open Data Policy.  Since then, both the Open Government Data Act and Foundations for Evidence-Based Policymaking Act have been signed into law.  (Federal open data is available at data.gov.)
 
