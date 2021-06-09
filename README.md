@@ -26,19 +26,19 @@ In addition to data-informed government operations, there is also evidence-based
 
 ## How Govrn Contributes
 
-#### Creates Marketplace for Open Data
+### Creates Marketplace for Open Data
 This may come as a surprise, but a lot of governance-related data that we think should exist actually isn’t yet available.  Dataset curation takes resources, and if a dataset isn’t valued, it might not get measured or aggregated.  Or if it is measured, it might not be at the right spatiotemporal resolution or accuracy to solve the problem at hand.  
 
 For example, when bacteria started spreading in New York City cooling towers and people were dying of Legionnaires’ Disease, the city desperately needed a dataset identifying the tens of thousands of buildings with cooling towers.  The problem?  New York City didn’t have that dataset.  (Luckily they were able to [curate one](https://smartenoughcity.mitpress.mit.edu/pub/yyth5w6y/release/1) through obscure tax credit information.)  For a less urgent but still critical example, try searching for [air quality data](https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r/data) on New York City’s open data portal - one of the best in the world.  The spatiotemporal resolution is 43 neighborhoods with only the yearly average.  Or, read about how cities are [underestimating greenhouse gas emissions](https://www.scientificamerican.com/article/u-s-cities-are-underestimating-their-greenhouse-gas-emissions/) by up to 145%.
 
 Right now, there are open data portals, but there’s no open marketplace to signal demand for data that isn’t yet available or adequate.  OBDs present an opportunity for constituents, experts, and government officials to place societal value on data and spur proactive open data stewardship.  Per the above examples, OBDs that are about broad problems like improving public health and mitigating climate change will very likely create positive externalities of data creation and sharing along the way.  This is essential for public goods creation and public problem solving.
 
-#### Makes Creation of Metrics and Goals Open Source
+### Makes Creation of Metrics and Goals Open Source
 Data-driven governance is awesome, but not if you over index on the “wrong” metric or goal.  An OBD by nature invites the public, community leaders, domain experts, and practitioners into the goal creation process.  Metrics and goals will therefore be transparent and benefit from the perspective of a large and diverse group of individuals.  This is data-driven governance driven by the people and supported by government institutions, rather than driven by government institutions with feedback from the people.
 
-#### Connects Stakeholders throughout Governance Lifecycle
+### Connects Stakeholders throughout Governance Lifecycle
 
 Data-driven governance has many stakeholders, and Govrn connects them all in one place. Constituents, domain experts, community leaders, and politicians are able to organize around collectively agreed upon goals and metrics.  And more importantly, they have the option to stay connected throughout the entire governance lifecycle.  This includes everything from defining a public problem, signalling demand for data, iterating on goals and metrics, critiquing the implementation, and evaluating the impact of the solution. 
 
-#### Incentivizes Results through Campaign Finance
+### Incentivizes Results through Campaign Finance
 Govrn aligns the concept of evidence-based policymaking and data-driven governance with a very powerful lever: campaign finance.  Right now there is high public demand for evidence-based policymaking and data-driven governance, but there’s no direct mechanism to invest in these processes.  Investing in politicians who operate this way is a direct way to support this type of governance.  
