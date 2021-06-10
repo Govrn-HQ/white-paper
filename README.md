@@ -44,7 +44,7 @@ There are several paths to contribute to the Govrn White Paper.
 1. **Submit an Issue:** Issues are similar to comments in google docs.  They allow you to start a discussion on a certain sections, parts, on entire chapters of the White Paper.  Currently, there are two types of issues to submit, a Comment or a Section Propoosal.
    - **Comments** should be used when you have a question, idea, or thoughts on an already written part of the paper.  The template for a comment can be found [here](.github/ISSUE_TEMPLATE/comment.md)
    - **Section Proposals** should be used when you think that a new sub-section or idea should be added to the paper, but aren't yet ready to write it up for a PR (more information on PRs below).  The template for a comment can be found [here](.github/ISSUE_TEMPLATE/section-proposal.md)
-1. **Submit a Pull Request:**  Pull Requests are similar to making or suggesting edits in google docs.  They allow you write or re-write sections of the White Paper.  When you create and submit a pull request, you're making a copy of the current version of the White Paper, writing a new version, and submitting the new version to become the main version for the White Paper.
+1. **Submit a Pull Request:**  Pull Requests are similar to making or suggesting edits in google docs.  They allow you to write or re-write sections of the White Paper.  When you create and submit a pull request, you're making a copy of the current version of the White Paper, writing a new version, and submitting the new version to become the main version for the White Paper.
    - **Pull Request Process:** 
          1.  Make a github account if you don't already have one
          2.  Fork the white paper repo
