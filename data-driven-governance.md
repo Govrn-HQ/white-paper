@@ -40,7 +40,7 @@ Data-driven governance is awesome, but not if you over index on the “wrong” 
 Data-driven governance has many stakeholders, and Govrn connects them all in one place.  Constituents, domain experts, community leaders, and politicians are able to organize around collectively agreed upon goals and metrics.  And more importantly, they have the option to stay connected throughout the entire governance lifecycle.  This includes everything from defining a public problem, signalling demand for data, iterating on goals and metrics, critiquing the implementation, and evaluating the impact of the solution. 
 
 ### Incentivizes Results through Campaign Finance
-Govrn aligns the concept of evidence-based policymaking and data-driven governance with a very powerful lever: campaign finance.  Right now there is high public demand for evidence-based policymaking and data-driven governance, but there’s no direct mechanism to invest in these processes.  Investing in politicians who operate this way is a direct way to support this type of governance.
+Govrn aligns the concept of evidence-based policymaking and data-driven governance with a very powerful lever: campaign finance.  Right now there is high public demand for evidence-based policymaking and data-driven governance, but there’s no direct mechanism to invest in these processes.  Investing in politicians who operate this way is a direct way to support this type of governance.  Aaron's addition.
 
 
 ###### Footnotes
