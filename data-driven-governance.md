@@ -42,6 +42,7 @@ Data-driven governance has many stakeholders, and Govrn connects them all in one
 ### Incentivizes Results through Campaign Finance
 Govrn aligns the concept of evidence-based policymaking and data-driven governance with a very powerful lever: campaign finance.  Right now there is high public demand for evidence-based policymaking and data-driven governance, but there’s no direct mechanism to invest in these processes.  Investing in politicians who operate this way is a direct way to support this type of governance.  Aaron's addition.
 
+[comments]: <> (Alex's Thoughts: Under the 'Makes Creation of Metrics and Goals Open Source' section, I'd like to know more about the consequences of having it be driven by the public. I agree that having it be so open can be beneficial, but what happens when significant numbers of the public disagree on the best way to address a goal, especially when facts appear to be often-debated in the current climate? Who is the arbiter of what becomes the goal or not? Does the domain expert or community leader have a greater say over the goal than the average constituent i.e. is there a hierarchy to the stakeholders? Those answers may belong in a separate document, but that's what my mind jumped to on reading it.)
 
 ###### Footnotes
 <a name="myfootnote1"><sub>1</sub></a>: <sub>The calls for data-driven governance started [decades ago.]( https://issues.org/esty-2/)</sub>
