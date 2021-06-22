@@ -44,6 +44,9 @@ Govrn aligns the concept of evidence-based policymaking and data-driven governan
 
 [comments]: <> (Alex's Thoughts: Under the 'Makes Creation of Metrics and Goals Open Source' section, I'd like to know more about the consequences of having it be driven by the public. I agree that having it be so open can be beneficial, but what happens when significant numbers of the public disagree on the best way to address a goal, especially when facts appear to be often-debated in the current climate? Who is the arbiter of what becomes the goal or not? Does the domain expert or community leader have a greater say over the goal than the average constituent i.e. is there a hierarchy to the stakeholders? Those answers may belong in a separate document, but that's what my mind jumped to on reading it.)
 
+### Comments
+(Christine) Making a comment section here for people to add their thoughts in a bullet point style format. Or feel free to rewrite/add to the paper directly in the above sections!
+
 ###### Footnotes
 <a name="myfootnote1"><sub>1</sub></a>: <sub>The calls for data-driven governance started [decades ago.]( https://issues.org/esty-2/)</sub>
 
