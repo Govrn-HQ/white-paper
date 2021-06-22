@@ -40,7 +40,8 @@ We've recently decided test out using Github for how we write and collaborate on
 - For those that are Github pro's, woohoo!!  These steps below should be used when making contributions.
 
 ### Contribution Methods
-There are several paths to contribute to the Govrn White Paper.
+There are several paths to contribute to the Govrn White Paper. **If you're new to GitHub, we recommend following this [visual walkthrough](https://docs.google.com/presentation/d/1n6AExyGiIfbnpGS4HHHLSnniHOwsT3ir-lp-aOM95cw/edit#slide=id.p) we put together.**  Want to practice? Add a comment to the github-practice.md page.
+
 1. **Submit an Issue:** Issues are similar to comments in google docs.  They allow you to start a discussion on a certain sections, parts, on entire chapters of the White Paper.  Currently, there are two types of issues to submit, a Comment or a Section Propoosal.
    - **Comments** should be used when you have a question, idea, or thoughts on an already written part of the paper.  The template for a comment can be found [here.](.github/ISSUE_TEMPLATE/comment.md)
    - **Section Proposals** should be used when you think that a new sub-section or idea should be added to the paper, but aren't yet ready to write it up for a PR (more information on PRs below).  The template for a section proposal can be found [here.](.github/ISSUE_TEMPLATE/section-proposal.md)
