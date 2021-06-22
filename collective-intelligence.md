@@ -44,6 +44,8 @@ That said, there are several very valid arguments for the option of vetting solu
 
 But even without checks and balances from politicians and other experts, constituents still have a lot of vetting power.  Constituents who participate in an OBD have voting rights and can choose whether they accept or reject proposals (this is client-focused, similar to InnoCentive).  Or an OBD community could even vote to delegate the decision to a selected network of experts they’ve identified (this would be similar to MIT Solve or Challenge.gov).
 
+Christine's edit to discard
+
 ## Additional Resources
 
 Know of any additional collective intelligence resources or case studies? Drop them here!
