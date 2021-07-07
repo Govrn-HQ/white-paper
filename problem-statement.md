@@ -52,4 +52,25 @@ Unfortunately, the two-party system is so rigid that it has created a duopoly th
 
 Furthermore, having only two parties to choose from limits your ability to define your own politics.  Even if you only have a couple issues you strongly care about, as you only get the option of voting for a politician instead of an issue, you are forced to vote for the politician’s entire party platform as well as their position within the party.  This creates a world where championing an issue typically means championing a political party as a whole, which can have a polarizing effect. 
 
-This runs counter to what Americans want, as can be seen by the fact that a [higher plurality of registered voters now identify as “Independent” rather than “Democrat” or “Republican”](https://www.pewresearch.org/politics/2016/09/13/1-the-changing-composition-of-the-political-parties/0_2-2/).  This difference becomes even more pronounced with regards to [Millenials and GenXers](https://www.pewresearch.org/politics/2016/09/13/2-party-affiliation-among-voters-1992-2016/2_7-2/).  Unfortunately, constituents are then left with limited avenues to champion issues if not approved by a major party.  Further, even if an issue does enter the purview of a political party, it still then requires approval from party establishment leadership.   
+This runs counter to what Americans want, as can be seen by the fact that a [higher plurality of registered voters now identify as “Independent” rather than “Democrat” or “Republican”](https://www.pewresearch.org/politics/2016/09/13/1-the-changing-composition-of-the-political-parties/0_2-2/).  This difference becomes even more pronounced with regards to [Millenials and GenXers](https://www.pewresearch.org/politics/2016/09/13/2-party-affiliation-among-voters-1992-2016/2_7-2/).  Unfortunately, constituents are then left with limited avenues to champion issues if not approved by a major party.  Further, even if an issue does enter the purview of a political party, it still then requires approval from party establishment leadership.
+
+## Problem with Data Ethics and Privacy
+
+We recognize data usage as it applies to campaigning, both by good and bad actors, is a problem when it comes to democracy.  We plan to write a separate and complete paper on this topic and Govrn’s solution alone.
+
+## High-Level Vision
+
+What you’re going to see is that [Outcome-Based Donations](https://medium.com/govrn/an-intro-to-outcome-based-donations-8ebb800f6fbd) are just the tip of the iceberg to what we’re building.  We don’t like the phrase that “we’re out here to solve democracy” or “fix politics” as that implies there is a perfect solution.  We believe that the only perfect solution is the model designed to fix the problems we are currently presented with. One that delicately balances innovation and historical precedents.
+
+In this paper, we hope to outline both a specific mechanism and process to alleviate some issues in our current state of politics and governance, and two, a model and platform that allows us to continuously update our governance and political model to take on the specific system problems of the time.  The second must build on the first, as we could never build the second without the first and the first alone would be insufficient. 
+
+Our model is one of collaboration, or Open Source Politics and Governance.  It is open, transparent, composable, and free as in libre, as in anyone should be allowed to participate and have access to the same tools.  We’ve designed the system to be one of a Positive Sum Value Game, where if politicians win, constituents win (and vice versa).
+
+This is community owned politics.  One that puts us and politicians on the same team.  Where we are incentivized to collaborate, instead of disengage.
+
+We are just one group of individuals in a long chain of fighters and innovators who have led the movements and change of the past and present.  This is our contribution to the movement of democracy that has spanned generations.  All that’s needed is for you to come join and design it together.
+
+Next writing cycle, we’ll take a more specific look at the vision statement topic by topic.
+
+## Appendix 
+
