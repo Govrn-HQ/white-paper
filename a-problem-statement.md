@@ -46,7 +46,7 @@ At Govrn, we’ve been referring to this as Political Deadweight Loss.  [Deadwei
 
 ## Two-party System as a Duopoly
 
-Unfortunately, the two-party system is so rigid that it has created a duopoly that gives Americans fewer choices instead of more. Not only is it difficult for third parties to gain political power, but it’s also difficult for non establishment candidates to gain political power within their own party. 
+Unfortunately, the two-party system is so rigid that it has created a duopoly that gives Americans fewer choices instead of more. Not only is it difficult for third parties to gain political power,<sup>[1](#myfootnote1)</sup> but it’s also difficult for non establishment candidates to gain political power within their own party.<sup>[2](#myfootnote2)</sup> 
 
 ## Hyper Dependence on Political Parties to Champion Issues
 
@@ -72,5 +72,14 @@ We are just one group of individuals in a long chain of fighters and innovators 
 
 Next writing cycle, we’ll take a more specific look at the vision statement topic by topic.
 
-## Appendix 
+### Comments
+(Christine) Making a comment section here for people to add their thoughts in a bullet point style format. Or feel free to rewrite/add to the paper directly in the above sections!
+
+
+###### Footnotes
+<a name="myfootnote1"><sub>1</sub></a>: <sub>The Democrats and Republicans often make deals with each other that reinforce the duopoly. In Philadelphia, for example, Democrats and Republicans made a deal to guarantee the minority party receives [two city council seats](https://billypenn.com/2020/01/22/regular-people-over-wall-street-how-the-working-families-party-could-shake-up-philly-city-hall/) regardless of constituent voting. In this case, The Working Families Party saw the loophole for what it was and was able to replace the Republican party in becoming the minority party represented.</sub>
+
+<a name="myfootnote2"><sub>2</sub></a>: <sub>In order to combat competition, the Democratic Congressional Campaign Committee, which is the official campaign arm for the Democrats in the House of Representatives, made a ruling that any consultants that worked on campaigns for Democrat Challengers to Democrat Incumbents would be blacklisted and not eligible to be hired for any future Democrat campaigns.  Again, while this makes sense for the system they are presented with, this type of ruling does not create a more effective government for the people, but rather only aims to strengthen the party itself.  (Note: that while there was an effort to [combat this from the progresive caucus](https://www.politico.com/story/2019/03/27/dccc-cheri-bustos-progressives-1241010), the caucus ultimately [fell in line with the party](https://www.politico.com/news/2020/01/22/dccc-dues-congress-progressive-caucus-101796).)</sub>
+
+### Appendix 
 
