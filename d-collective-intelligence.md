@@ -44,17 +44,15 @@ That said, there are several very valid arguments for the option of vetting solu
 
 But even without checks and balances from politicians and other experts, constituents still have a lot of vetting power.  Constituents who participate in an OBD have voting rights and can choose whether they accept or reject proposals (this is client-focused, similar to InnoCentive).  Or an OBD community could even vote to delegate the decision to a selected network of experts they’ve identified (this would be similar to MIT Solve or Challenge.gov).
 
-Christine's edit to discard
-
 ## Additional Resources
 
 Know of any additional collective intelligence resources or case studies? Drop them here!
 
-[Challenge.gov](http://collective-intelligence.thegovlab.org/case/challengegov)
-[NYU GovLab - Collective Intelligence Case Studies](https://collective-intelligence.thegovlab.org/)
-[How Collective Intelligence can Change Our World](https://press.princeton.edu/books/paperback/9780691196169/big-mind)
-[Nesta's Collective Intelligence Design Playbook](https://www.nesta.org.uk/toolkit/collective-intelligence-design-playbook/#:~:text=This%20playbook%20was%20designed%20by,to%20address%20a%20social%20challenge)
-[Georgetown's CSET Forecasting Project](https://www.cset-foretell.com/blog/crowd-performance-analysis)
-[Collective Intelligence & Modding](https://mediumsandmessages.org/2017/12/03/collective-intelligence-modding/)
-[ACM Collective Intelligence Series](https://ci.acm.org/)
+[Challenge.gov](http://collective-intelligence.thegovlab.org/case/challengegov)<br/>
+[NYU GovLab - Collective Intelligence Case Studies](https://collective-intelligence.thegovlab.org/)<br/>
+[How Collective Intelligence can Change Our World](https://press.princeton.edu/books/paperback/9780691196169/big-mind)<br/>
+[Nesta's Collective Intelligence Design Playbook](https://www.nesta.org.uk/toolkit/collective-intelligence-design-playbook/#:~:text=This%20playbook%20was%20designed%20by,to%20address%20a%20social%20challenge)<br/>
+[Georgetown's CSET Forecasting Project](https://www.cset-foretell.com/blog/crowd-performance-analysis)<br/>
+[Collective Intelligence & Modding](https://mediumsandmessages.org/2017/12/03/collective-intelligence-modding/)<br/>
+[ACM Collective Intelligence Series](https://ci.acm.org/)<br/>
 
