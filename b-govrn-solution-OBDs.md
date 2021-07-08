@@ -28,11 +28,11 @@ For the full OBD lifecycle to work, there are three relevant stakeholders: Const
 
 #### Constituents 
 
-Constituents are the most important part of the Govrn process and include anyone who wants to donate to create positive change in their community.  Using OBDs, constituents leverage collective intelligence to flag the most pressing issues they care about and crowdfunding collective support for them.
+Constituents are the most important part of the Govrn process and include anyone who wants to donate to create positive change in their community.<sup>[1](#myfootnote1)</sup>  Using OBDs, constituents leverage collective intelligence to flag the most pressing issues they care about and crowdfunding collective support for them.
 
 #### Domain Experts
 
-Domain experts are responsible for proposing the most meaningful metric(s) to measure the successful resolution of constituents’ problems.  They may also have recommendations on implementation strategies based on their research.  Domain experts can include anyone from researchers, practitioners, non-profits/NGOs, government officials, and even the politicians themselves.  
+Domain experts are responsible for proposing the most meaningful metric(s) to measure the successful resolution of constituents’ problems.  They may also have recommendations on implementation strategies based on their research.  Domain experts can include anyone from researchers, practitioners, non-profits/NGOs, government officials, and even the politicians themselves.<sup>[2](#myfootnote2)</sup>  
 
 #### Politicians
 
@@ -67,7 +67,7 @@ Next is the deliberation and voting process. Once domain experts have submitted 
 The Mayor and Chief Resilience Officer get to work implementing this goal with their public sector expertise. The great part is that now they also have plenty of domain experts they can reach out to for technical advice as well. 
 
 #### 6. Funds transfer
-The Mayor and Chief Resilience Officer’s re-election campaigns receive the funds if and when they implement the OBD goal. If the metric is not reached, individual donors can send their pledge to one of the politician’s political opponents or to a nonprofit in the space. Or, they could still choose to send the money to the original politician if they thought they made a good effort or extenuating circumstances got in the way.
+The Mayor and Chief Resilience Officer’s re-election campaigns receive the funds if and when they implement the OBD goal.<sup>[3](#myfootnote3)</sup> If the metric is not reached, individual donors can send their pledge to one of the politician’s political opponents or to a nonprofit in the space. Or, they could still choose to send the money to the original politician if they thought they made a good effort or extenuating circumstances got in the way.
 
 ### How OBDs Help People
 
@@ -106,5 +106,15 @@ We plan to expand on this in a future section, but want to provide brief explana
 
 ### Existing Research and Innovation
 
-Govrn’s outcome-based donation model builds upon and combines existing research and practice in collective intelligence, crowdfunding, people-powered PACs, participatory and collaborative governance, contractual democracy, social impact bonds, Token Networks, and Decentralized Autonomous Organizations. We see Govrn as connecting the dots on decades of research and innovation.  This will be the focus of an upcoming white paper section.  
+Govrn’s outcome-based donation model builds upon and combines existing research and practice in collective intelligence, crowdfunding, people-powered PACs, participatory and collaborative governance, contractual democracy, social impact bonds, Token Networks, and Decentralized Autonomous Organizations. We see Govrn as connecting the dots on decades of research and innovation.  This will be the focus of an upcoming white paper section. 
+
+### Comments
+(Christine) Making a comment section here for people to add their thoughts in a bullet point style format. Or feel free to rewrite/add to the paper directly in the above sections!
+
+###### Footnotes
+<a name="myfootnote1"><sub>1</sub></a>: <sub>For FEC compliance, this includes any individual who can legally donate to a U.S. political campaign.  The Govrn platform will not provide the infrastructure required for corporations to make donations.</sub>
+
+<a name="myfootnote2"><sub>2</sub></a>: <sub>Vetting of domain experts is a complex issue and will be further addressed in a future section of the white paper, along with mitigating conflicts of interest.</sub>
+
+<a name="myfootnote3"><sub>3</sub></a>: <sub>Donors to the OBD will determine how to allocate the donations between the multiple politicians who contributed to the outcome.</sub>
 
