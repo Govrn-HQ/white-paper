@@ -6,5 +6,5 @@
 
 
 ## Contributions
-(Christine) NYC/ Death Valley, CA
-Laura Mexico City, Mx
+(Christine) NYC/ Death Valley, CA<br/>
+(Laura) Mexico City, Mx
