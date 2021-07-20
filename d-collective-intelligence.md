@@ -1,8 +1,8 @@
 ## Collective-intelligence
 
-Title: Data-Driven Governance
-Version:  v.01
-Date: 5/18/2021
+Title: Data-Driven Governance<br/>
+Version:  v.01<br/>
+Date: 5/18/2021<br/>
 
 ## Existing Research and Innovations
 
@@ -26,7 +26,7 @@ But collective intelligence isn’t just a story, it’s actually a well-researc
 
 There are three frameworks that we’ve found helpful for analyzing collective intelligence examples.  First is the acknowledgement that collective intelligence exists across sectors, with compelling case studies in (a) open source movements, (b) the private, nonprofit, and civic sectors, (c) academia, and (d) government. 
 
-Open source movements like Wikipedia and Python, some of the most widely used services in the world, leverage collective intelligence for massive public utility.  In the private, nonprofit, and civic sectors, social impact marketplaces like [InnoCentive](https://www.innocentive.com/) and [MIT Solve](https://solve.mit.edu/) have achieved incredible success facilitating teams of globally sourced “solvers” who don’t necessarily have expert credentials.  In academia, there’s a growing call to “[break science out of the Ivory Tower](https://theconversation.com/we-need-to-break-science-out-of-its-ivory-tower-heres-one-way-to-do-this-76354)” with fascinating case studies in [citizen science](https://www.citizenscience.gov/#), [community-engaged research](https://accelerate.ucsf.edu/files/CE/manual_for_researchers_agencies.pdf), and [co-creation of knowledge](http://bay.stanford.edu/) with impacted communities and relevant nonprofits/government agencies.  Collective intelligence exists in government, too.  Examples range from [participatory budgeting](https://www.denvergov.org/content/denvergov/en/denver-council-district-12/priorities/projects-and-plans/participatory-budgeting.html) and [participatory planning](https://civicplan.ca/what-is-participatory-planning/) to [calls for public help solving challenges](https://www.challenge.gov/) to even [engaging the public in lawmaking](https://crowd.law/crowdlaw-the-palgrave-encyclopedia-of-interest-groups-lobbying-and-public-affairs-5d696e2a113d) itself.
+Open source movements like Wikipedia and Python, some of the most widely used services in the world, leverage collective intelligence for massive public utility.  In the private, nonprofit, and civic sectors, social impact marketplaces like [InnoCentive](https://www.innocentive.com/) and [MIT Solve](https://solve.mit.edu/) have achieved incredible success<sup>[1](#myfootnote1)</sup>  facilitating teams of globally sourced “solvers” who don’t necessarily have expert credentials.  In academia, there’s a growing call to “[break science out of the Ivory Tower](https://theconversation.com/we-need-to-break-science-out-of-its-ivory-tower-heres-one-way-to-do-this-76354)” with fascinating case studies in [citizen science](https://www.citizenscience.gov/#), [community-engaged research](https://accelerate.ucsf.edu/files/CE/manual_for_researchers_agencies.pdf), and [co-creation of knowledge](http://bay.stanford.edu/) with impacted communities and relevant nonprofits/government agencies.  Collective intelligence exists in government, too.  Examples range from [participatory budgeting](https://www.denvergov.org/content/denvergov/en/denver-council-district-12/priorities/projects-and-plans/participatory-budgeting.html) and [participatory planning](https://civicplan.ca/what-is-participatory-planning/) to [calls for public help solving challenges](https://www.challenge.gov/) to even [engaging the public in lawmaking](https://crowd.law/crowdlaw-the-palgrave-encyclopedia-of-interest-groups-lobbying-and-public-affairs-5d696e2a113d) itself.
 
 Second is a distinction around the stage of problem solving that collective intelligence addresses.  Projects like [Wikipedia](http://Wikipedia) and the Federation of American Scientists’ [Ask a Scientist Project](https://covidcourse.thegovlab.org/modules/crowdsourced-expertise.html) are focused around knowledge and data accessibility, which in and of itself are enormous tasks.  Yet once knowledge and data is available, other collective intelligence projects are able to address additional complex societal problems beyond knowledge dissemination like the [adverse effect of poverty on educational outcomes](http://collective-intelligence.thegovlab.org/case/challengegov), for instance.
 
@@ -44,15 +44,19 @@ That said, there are several very valid arguments for the option of vetting solu
 
 But even without checks and balances from politicians and other experts, constituents still have a lot of vetting power.  Constituents who participate in an OBD have voting rights and can choose whether they accept or reject proposals (this is client-focused, similar to InnoCentive).  Or an OBD community could even vote to delegate the decision to a selected network of experts they’ve identified (this would be similar to MIT Solve or Challenge.gov).
 
+## Comments
+
 ## Additional Resources
 
 Know of any additional collective intelligence resources or case studies? Drop them here!
 
-[Challenge.gov](http://collective-intelligence.thegovlab.org/case/challengegov)
-[NYU GovLab - Collective Intelligence Case Studies](https://collective-intelligence.thegovlab.org/)
-[How Collective Intelligence can Change Our World](https://press.princeton.edu/books/paperback/9780691196169/big-mind)
-[Nesta's Collective Intelligence Design Playbook](https://www.nesta.org.uk/toolkit/collective-intelligence-design-playbook/#:~:text=This%20playbook%20was%20designed%20by,to%20address%20a%20social%20challenge)
-[Georgetown's CSET Forecasting Project](https://www.cset-foretell.com/blog/crowd-performance-analysis)
-[Collective Intelligence & Modding](https://mediumsandmessages.org/2017/12/03/collective-intelligence-modding/)
-[ACM Collective Intelligence Series](https://ci.acm.org/)
+[Challenge.gov](http://collective-intelligence.thegovlab.org/case/challengegov)<br/>
+[NYU GovLab - Collective Intelligence Case Studies](https://collective-intelligence.thegovlab.org/)<br/>
+[How Collective Intelligence can Change Our World](https://press.princeton.edu/books/paperback/9780691196169/big-mind)<br/>
+[Nesta's Collective Intelligence Design Playbook](https://www.nesta.org.uk/toolkit/collective-intelligence-design-playbook/#:~:text=This%20playbook%20was%20designed%20by,to%20address%20a%20social%20challenge)<br/>
+[Georgetown's CSET Forecasting Project](https://www.cset-foretell.com/blog/crowd-performance-analysis)<br/>
+[Collective Intelligence & Modding](https://mediumsandmessages.org/2017/12/03/collective-intelligence-modding/)<br/>
+[ACM Collective Intelligence Series](https://ci.acm.org/)<br/>
 
+###### Footnotes
+<a name="myfootnote1"><sub>1</sub></a>: <sub>Solutions on InnoCentive have a [78% success rate and are identified 4x faster and cost 10x less](https://www.wazoku.com/products/open-innovation-marketplace/) than traditional methods.  It’s no wonder that companies like NASA and AstraZeneca use the platform.</sub>

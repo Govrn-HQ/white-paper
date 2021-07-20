@@ -1,8 +1,8 @@
 ## The Govrn Solution: Supplementary Questions
 
-Solution Statement Supplements
-Version:  v.02
-Date: 5/17/2021
+Solution Statement Supplements<br/>
+Version:  v.02<br/>
+Date: 5/17/2021<br/>
 
 ### When does an OBD become active or official? Is there a threshold or does the outcome community decide a timeline?
 
@@ -36,4 +36,7 @@ Experts are external to the Govrn platform and must make an account with Govrn w
 ### Will corporations and organizations legally considered individuals by campaign finance law be allowed to use the Govrn platform?
 
 No. Corporations are not legally allowed to donate directly to political candidates, but have to use other mechanisms like PACs instead.  Govrn isn’t a PAC and doesn’t provide the infrastructure necessary for corporations to be legally compliant.
+
+### Comments
+(Christine) Making a comment section here for people to add their thoughts in a bullet point style format. Or feel free to rewrite/add to the paper directly in the above sections!
 
