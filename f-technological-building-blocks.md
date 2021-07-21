@@ -13,7 +13,7 @@ Our work exists in the broader context of a governance renaissance.  So many peo
 
 There’s no way we can cover all of what is going on in the space.  But we do want to highlight some amazing work by others to both set the context for the broader idea of governance innovation and to explain where some of the ideas for Govrn come from.
 
-So far we’ve written about [collective intelligence](url) and [evidence-based policymaking & data-driven governance](url) and how these frameworks contribute to open governance.
+So far we’ve written about [collective intelligence](https://github.com/Govrn-HQ/white-paper/blob/main/d-collective-intelligence.md) and [evidence-based policymaking & data-driven governance](https://github.com/Govrn-HQ/white-paper/blob/main/e-data-driven-governance.md) and how these frameworks contribute to open governance.
 
 Here, we’ll dive into the key technological building blocks of open source governance and how OBDs relate.
 
