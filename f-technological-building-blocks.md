@@ -9,9 +9,9 @@ Date: 7/20/2021
 ## Introduction: What are the building blocks of open source governance?
 At Govrn, we view outcome-based donations (OBDs) as an idea that combines innovations and research that already exist in unique ways.  We’re bridging connections between related ideas to create something new.  Read more about Govrn and OBDs [here](https://docs.google.com/document/d/1Y3Kq08ckOFa4N5nDx-bOZKi_jdouFSTiRjgvOaJl5zM/edit).
 
-Our work exists in the broader context of a governance renaissance.  So many people and organizations are rethinking the roles of institutions, governance, and civic engagement to create more equitable, transparent, and participatory systems better able to address complex problems.
+Our work exists in the broader context of a governance renaissance.  People and organizations are rethinking the roles of institutions, governance, and civic engagement to create more equitable, transparent, and participatory systems to address complex problems.
 
-There’s no way we can cover all of what is going on in the space.  But we do want to highlight some amazing work by others to both set the context for the broader idea of governance innovation and to explain where some of the ideas for Govrn come from.
+There’s no way we can cover all of what is going on in the space.  But we do want to highlight some amazing work by others to both set the context for the broader idea of governance innovation and to explain where some of the ideas and inspiration for Govrn come from.
 
 So far we’ve written about [collective intelligence](https://github.com/Govrn-HQ/white-paper/blob/main/d-collective-intelligence.md) and [evidence-based policymaking & data-driven governance](https://github.com/Govrn-HQ/white-paper/blob/main/e-data-driven-governance.md) and how these frameworks contribute to open governance.
 
@@ -24,7 +24,7 @@ Here, we’ll dive into the key technological building blocks of open source gov
 
 Decentralized Autonomous Organizations (DAOs) present one of the most interesting opportunities on how to update politics and governance.  First, a technical definition: [A DAO is a group organized around a mission that coordinates through a shared set of rules enforced on a blockchain](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o).
 
-In simple terms, it allows for any number of individuals to coordinate and work together without needing a centralized or institutions body.  It allows for individuals who believe in a similar idea or outcome, to work together transparently and independently, without having to be beholden to structures that might have come about previously.  
+In simple terms, it allows for any number of individuals to coordinate and work together without needing a centralized or institutions body.  It allows for individuals who believe in a similar idea or outcome, to work together transparently and independently, without having to be beholden to structures that might have  previously existed.  
 
 Additionally, since the rules of participation are enforced by the platform (the blockchain), they are able to operate in a trustless manner.  A trustless manner means that since all the rules are programmatically enforced, you don’t have to “trust” that the other person will be a “good actor”.  To even participate in the DAO, they are forced to be a good actor.  This is important because it creates a way for people who have never met who might live completely different lives to actually trust each other and work together.  The trustless state creates a web of trust that didn’t used to exist.
 
@@ -32,7 +32,7 @@ Why does all this mean?  It means we’re able to define our own politics.  It m
 
 By leveraging DAOs, we’re removing the barriers that have existed for people to become involved in politics or civically engaged.  It allows anyone who is able to create a movement of support to chart their own path into politics without having to compromise.  
 
-What we hope is that it won’t even feel like you’re using a DAO.  It’s just going to feel like how politics should feel.
+What we hope is that it won’t even feel like you’re using a DAO.  It’s just going to feel like how politics *should* feel.
  
 ### Distributed Version Control
 
@@ -40,7 +40,7 @@ In addition to DAOs, distributed version control is another innovation that fits
 
 One of the most common version control platforms is [GitHub](https://github.com/), which now has [40 million users and is used by over 2 million organizations](https://hackernoon.com/githubs-top-100-most-valuable-repositories-out-of-96-million-bb48caa9eb0b) worldwide.  And while GitHub is mostly used for code, the public sector has written about GitHub’s potential impact beyond code: in [law](https://www.datacoalition.org/version-control-for-law-tracking-changes-in-the-u-s-congress/), [policy](https://www.brookings.edu/blog/techtank/2015/01/15/the-github-difference-overcoming-barriers-to-collaboration-in-government/), and document writing generally.
 
-The Brookings Institute writes that [“GitHub is not just the dominant code-hosting platform on the Internet.  Its underlying architecture also represents a new approach to collaboration that could have profound effects on our governing institutions and governance settings.”](https://www.brookings.edu/blog/techtank/2015/01/15/the-github-difference-overcoming-barriers-to-collaboration-in-government/)  Here’s what they said about why:
+The Brookings Institute writes that [“GitHub is not just the dominant code-hosting platform on the Internet.  Its underlying architecture also represents a new approach to collaboration that could have profound effects on our governing institutions and governance settings.”](https://www.brookings.edu/blog/techtank/2015/01/15/the-github-difference-overcoming-barriers-to-collaboration-in-government/) Here’s what they mean :
 
 1. The structure of GitHub promotes co-creation and repurposing of knowledge.  
 
