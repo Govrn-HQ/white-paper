@@ -22,13 +22,13 @@ Here, we’ll dive into the key technological building blocks of open source gov
 
 ### Decentralized Autonomous Organizations
 
-Decentralized Autonomous Organizations (DAOs) present one of the most interesting opportunities on how to update politics and governance.  First, a technical definition: [A DAO is a group organized around a mission that coordinates through a shared set of rules enforced on a blockchain](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o).
+Decentralized Autonomous Organizations (DAOs) present one of the most interesting opportunities to update politics and governance.  First, a technical definition: [A DAO is a group organized around a mission that coordinates through a shared set of rules enforced on a blockchain](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o).
 
-In simple terms, it allows for any number of individuals to coordinate and work together without needing a centralized or institutions body.  It allows for individuals who believe in a similar idea or outcome, to work together transparently and independently, without having to be beholden to structures that might have  previously existed.  
+Simply, it allows for any number of individuals to coordinate and work together without needing a centralized or institutions body.  Individuals believing in a similar idea or outcome are able to work together transparently and independently without having to accept structural baggage.  
 
-Additionally, since the rules of participation are enforced by the platform (the blockchain), they are able to operate in a trustless manner.  A trustless manner means that since all the rules are programmatically enforced, you don’t have to “trust” that the other person will be a “good actor”.  To even participate in the DAO, they are forced to be a good actor.  This is important because it creates a way for people who have never met who might live completely different lives to actually trust each other and work together.  The trustless state creates a web of trust that didn’t used to exist.
+Additionally, since the rules of participation are enforced by the platform (the blockchain), they are able to operate in a trustless manner.  A trustless manner means that since all the rules are programmatically enforced, you don’t have to “trust” that the other person will be a “good actor”.  To even participate in the DAO, they are forced to be a good actor.  This creates a way for people who have never met to actually trust and work together.  The trustless state creates a web of trust that didn’t used to exist.
 
-Why does all this mean?  It means we’re able to define our own politics.  It means that by using the infrastructure a DAO provides, anyone is able to create their own coalitions, their own committees, even their own political parties and PACs.  DAOs provide the benefits that a political party provides, without the baggage of political parties.  
+What does all this mean?  It means we’re able to define our own politics.  It means that by using the infrastructure a DAO provides, anyone is able to create their own coalitions, their own committees, even their own political parties and PACs.  DAOs provide the benefits that a political party provides, without the negatives of political parties.  
 
 By leveraging DAOs, we’re removing the barriers that have existed for people to become involved in politics or civically engaged.  It allows anyone who is able to create a movement of support to chart their own path into politics without having to compromise.  
 
