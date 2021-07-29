@@ -81,4 +81,7 @@ Add more here!
 
 ### Comments
 (Christine) Making a comment section here for people to add their thoughts in a bullet point style format. Or feel free to rewrite/add to the paper directly in the above sections.
+(Doug) In the github model a rather small technocratic individual or group makes pull requests. How does this play out in policy making documents? A thousand forks that are only pulled from by a small technocratic group would not look like democracy for long. 
+
+I raise this question because the internet came about mostly by open source peer production methods, and despite the fact that it is one of the most dominant forces changing lives globally, it wasn't democratically voted on by anyone. I'm not sure open source governance leads to democracy on its own. I think it trends towards technocracy. That may be better for some policies. Serious thought needs to go into open source policy making to avoid that outcome if democracy is the goal.
 
