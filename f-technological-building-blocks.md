@@ -68,6 +68,9 @@ There is no single definition for open governance, but it’s generally referred
 
 The idea of making governance “writable” is what we’re working towards at Govrn, starting with OBDs.  OBDs enable citizens to collaborate with elected officials to meet community goals.  At a technical level, each OBD is a DAO that establishes a smart contract to transfer campaign finance donations to the elected official only if and when the community goal is reached.  What this means in practice is that citizens have more creative ownership over campaign platform creation and public goods goals.  They move from simply giving feedback to co-creating governance objectives.  The government still remains the moderator and implementer, but ownership moves towards citizens.
 
+## Open Source Governance vs Technocracy
+
+
 ### Open Source Governance Resources
 
 For more resources on open governance, check out:<br/>
@@ -81,4 +84,9 @@ Add more here!
 
 ### Comments
 (Christine) Making a comment section here for people to add their thoughts in a bullet point style format. Or feel free to rewrite/add to the paper directly in the above sections.
+
+(Doug) In the github model a rather small technocratic individual or group makes pull requests. How does this play out in policy making documents? A thousand forks that are only pulled from by a small technocratic group would not look like democracy for long. 
+
+I raise this question because the internet came about mostly by open source peer production methods, and despite the fact that it is one of the most dominant forces changing lives globally, it wasn't democratically voted on by anyone. I'm not sure open source governance leads to democracy on its own. I think it trends towards technocracy. That may be better for some policies. Serious thought needs to go into open source policy making to avoid that outcome if democracy is the goal.
+
 
