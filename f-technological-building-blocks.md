@@ -68,6 +68,24 @@ There is no single definition for open governance, but it’s generally referred
 
 The idea of making governance “writable” is what we’re working towards at Govrn, starting with OBDs.  OBDs enable citizens to collaborate with elected officials to meet community goals.  At a technical level, each OBD is a DAO that establishes a smart contract to transfer campaign finance donations to the elected official only if and when the community goal is reached.  What this means in practice is that citizens have more creative ownership over campaign platform creation and public goods goals.  They move from simply giving feedback to co-creating governance objectives.  The government still remains the moderator and implementer, but ownership moves towards citizens.
 
+## Open Source Governance vs Technocracy
+
+Technology projects are well served by subject matter experts making key decisions. The open source governance tools and models reflect that fundamental principle. The definition of technocracy, the government or control of society or industry by an elite of technical experts, therefore works well for groups and projects based on technological development where expertise is trusted and well established.
+
+In a broader political context where trust levels in experts has been diminished due to biased experts, expert agendas, and fraudulent experts. Complex political issues related to the public good seem particularly plagued by competing experts and agendas. The use of open source governance models and tools could be problematic if a recognized expert or group of experts cannot be established as trusted change request managers for open source policy documents.
+
+Many of the open source governance models rely on a trusted authorized technocratic group to make key decisions. The electoral model is the most democratic model. The Red Hat description of this model is:
+
+#### Electoral
+Some open source projects choose to conduct governance through elections. They may hold formal elections, where people vote for candidates to fill various project roles, or conduct similar electoral processes to ratify or update project policies and procedures. Under this model, communities establish and document electoral procedures to which they agree, then enact those procedures as a regular matter of decision-making. 
+ 
+This model is more common in larger open source projects where multiple qualified and interested contributors offer to play the same role. Electoral governance also tends to lead to precise documentation of elected project roles, procedures, and participation guidelines. Elections can have drawbacks when they become contentious, distracting, and time-consuming for project members. And unless a community has specifically codified term limits in its governance documentation, elections do not necessarily guarantee leadership turnover.
+Source: https://www.redhat.com/en/blog/understanding-open-source-governance-models
+
+The establishment of a Govrn open source electoral model may be necessary to prevent the common technocratic governance seen in so many open source projects.
+
+
+
 ### Open Source Governance Resources
 
 For more resources on open governance, check out:<br/>
@@ -84,4 +102,9 @@ Add more here!
 (Doug) In the github model a rather small technocratic individual or group makes pull requests. How does this play out in policy making documents? A thousand forks that are only pulled from by a small technocratic group would not look like democracy for long. 
 
 I raise this question because the internet came about mostly by open source peer production methods, and despite the fact that it is one of the most dominant forces changing lives globally, it wasn't democratically voted on by anyone. I'm not sure open source governance leads to democracy on its own. I think it trends towards technocracy. That may be better for some policies. Serious thought needs to go into open source policy making to avoid that outcome if democracy is the goal.
+
+(Doug) In the github model a rather small technocratic individual or group makes pull requests. How does this play out in policy making documents? A thousand forks that are only pulled from by a small technocratic group would not look like democracy for long. 
+
+I raise this question because the internet came about mostly by open source peer production methods, and despite the fact that it is one of the most dominant forces changing lives globally, it wasn't democratically voted on by anyone. I'm not sure open source governance leads to democracy on its own. I think it trends towards technocracy. That may be better for some policies. Serious thought needs to go into open source policy making to avoid that outcome if democracy is the goal.
+
 
