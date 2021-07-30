@@ -70,6 +70,21 @@ The idea of making governance “writable” is what we’re working towards at 
 
 ## Open Source Governance vs Technocracy
 
+Technology projects are well served by subject matter experts making key decisions. The open source governance tools and models reflect that fundamental principle. The definition of technocracy, the government or control of society or industry by an elite of technical experts, therefore works well for groups and projects based on technological development where expertise is trusted and well established.
+
+In a broader political context where trust levels in experts has been diminished due to biased experts, expert agendas, and fraudulent experts. Complex political issues related to the public good seem particularly plagued by competing experts and agendas. The use of open source governance models and tools could be problematic if a recognized expert or group of experts cannot be established as trusted change request managers for open source policy documents.
+
+Many of the open source governance models rely on a trusted authorized technocratic group to make key decisions. The electoral model is the most democratic model. The Red Hat description of this model is:
+
+#### Electoral
+Some open source projects choose to conduct governance through elections. They may hold formal elections, where people vote for candidates to fill various project roles, or conduct similar electoral processes to ratify or update project policies and procedures. Under this model, communities establish and document electoral procedures to which they agree, then enact those procedures as a regular matter of decision-making. 
+ 
+This model is more common in larger open source projects where multiple qualified and interested contributors offer to play the same role. Electoral governance also tends to lead to precise documentation of elected project roles, procedures, and participation guidelines. Elections can have drawbacks when they become contentious, distracting, and time-consuming for project members. And unless a community has specifically codified term limits in its governance documentation, elections do not necessarily guarantee leadership turnover.
+Source: https://www.redhat.com/en/blog/understanding-open-source-governance-models
+
+The establishment of a Govrn open source electoral model may be necessary to prevent the common technocratic governance seen in so many open source projects.
+
+
 
 ### Open Source Governance Resources
 
