@@ -70,6 +70,24 @@ The idea of making governance “writable” is what we’re working towards at 
 
 ## Open Source Governance vs Technocracy
 
+There is an unfortunate story that tends to play out when new tools are built that should allow new entrants into the space.  It goes as follows:
+1. New tools built to bring new entrants into the space
+2. The learning curve on the tools is high
+3. Those that are already in the space take the time to learn them
+4. New entrants never have a chance to utilize the new tools as they never made it over the learning curve
+
+Even when we build tools that should create more transparency, we sometimes only embolden the status quo.  This can be seen in the way knowledge is disseminated as well.  What it comes to technology tools, we see techno-native individuals grasp new concepts more quickly than those the tools were intended to help.
+
+This becomes a big problem when it has to do with governance and democracy. Rather than a Democracy, it enables a Technocracy.  Rather than fixing the power dynamics, we've merely shifted them so a new group is in power.
+
+Open Source Governance aims to fix this by making all the content created open for anyone to fork, use, and modify.  The issue is if only "experts" know how to run that process, that we haven't actually changed a power dynamic.  Further, just because you can fork and modify a governance model or policy, doesn't mean you fork the user set or network. 
+
+You can build the most elegant new governance model, but due to real world barriers, you could still have trouble getting others to use your system.
+
+Now there are ways to help curtail this, such as a use of elections to ensure we create a rotation of who has the time and access to those tools.  Or ensuring all component governance pieces need to be "composable", so that the changing cost when a network moves from one governance model to a "forked and improved version" is negligible.  But that doesn't change that inherent risk of creating a technocracy when introducing new technology tools.  What we can say is that we're aware of this very real risk and are ensuring we take steps with the distrobution model for the tools we build.
+
+We plan to continue to address this with ideas from academics and other communities that have found novel ways to prevent these types of problems.  A good first step in our mind is setting up a council and working group.  If you're interested in this or have ideas, please reach out and contribute them to this section of the white paper.
+
 (Section in Progress)
 
 Doug added an important point about how to prevent open source from leading to technocracy. Here are a few notes, in progress.
