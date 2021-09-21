@@ -86,9 +86,10 @@ You can build the most elegant new governance model, but due to real world barri
 
 Now there are ways to help curtail this, such as a use of elections to ensure we create a rotation of who has the time and access to those tools.  Or ensuring all component governance pieces need to be "composable", so that the changing cost when a network moves from one governance model to a "forked and improved version" is negligible.  But that doesn't change that inherent risk of creating a technocracy when introducing new technology tools.  What we can say is that we're aware of this very real risk and are ensuring we take steps with the distrobution model for the tools we build.
 
-We plan to continue to address this with ideas from academics and other communities that have found novel ways to prevent these types of problems.  A good first step in our mind is setting up a council and working group.  If you're interested in this or have ideas, please reach out and contribute them to this section of the white paper.
+We plan to continue to address this with ideas from academia and other communities that have found novel ways to prevent these types of problems.  A good first step in our mind is setting up a council and working group.  If you're interested in this or have ideas, please reach out and contribute them to this section of the white paper.
 
-(Section in Progress)
+<!-- 
+(Previous notes + Doug's initial write up)
 
 Doug added an important point about how to prevent open source from leading to technocracy. Here are a few notes, in progress.
 
@@ -101,7 +102,7 @@ Aaron/Christine convo:
 - No one technology is a silver bullet
 - A good question to ask is: is an open source tool diffusing power to more people or concentrating power to a few?
 
-Doug written piece:
+<!--  Doug written piece:
 Technology projects are well served by subject matter experts making key decisions. The open source governance tools and models reflect that fundamental principle. The definition of technocracy, the government or control of society or industry by an elite of technical experts, therefore works well for groups and projects based on technological development where expertise is trusted and well established.
 
 In a broader political context where trust levels in experts has been diminished due to biased experts, expert agendas, and fraudulent experts. Complex political issues related to the public good seem particularly plagued by competing experts and agendas. The use of open source governance models and tools could be problematic if a recognized expert or group of experts cannot be established as trusted change request managers for open source policy documents.
@@ -114,6 +115,7 @@ This model is more common in larger open source projects where multiple qualifie
 Source: https://www.redhat.com/en/blog/understanding-open-source-governance-models
 
 The establishment of a Govrn open source electoral model may be necessary to prevent the common technocratic governance seen in so many open source projects.
+--> 
 
 
 
@@ -129,13 +131,11 @@ For more resources on open governance, check out:<br/>
 Add more here!
 
 ### Comments
-(Christine) Making a comment section here for people to add their thoughts in a bullet point style format. Or feel free to rewrite/add to the paper directly in the above sections.
+(Christine) Making a comment section here for people to add their thoughts in a bullet point style format. Or feel free to rewrite/add to the paper directly in the above sections.<br/>
 (Doug) In the github model a rather small technocratic individual or group makes pull requests. How does this play out in policy making documents? A thousand forks that are only pulled from by a small technocratic group would not look like democracy for long. 
 
 I raise this question because the internet came about mostly by open source peer production methods, and despite the fact that it is one of the most dominant forces changing lives globally, it wasn't democratically voted on by anyone. I'm not sure open source governance leads to democracy on its own. I think it trends towards technocracy. That may be better for some policies. Serious thought needs to go into open source policy making to avoid that outcome if democracy is the goal.
 
-(Doug) In the github model a rather small technocratic individual or group makes pull requests. How does this play out in policy making documents? A thousand forks that are only pulled from by a small technocratic group would not look like democracy for long. 
 
-I raise this question because the internet came about mostly by open source peer production methods, and despite the fact that it is one of the most dominant forces changing lives globally, it wasn't democratically voted on by anyone. I'm not sure open source governance leads to democracy on its own. I think it trends towards technocracy. That may be better for some policies. Serious thought needs to go into open source policy making to avoid that outcome if democracy is the goal.
 
 
