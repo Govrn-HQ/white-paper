@@ -86,7 +86,7 @@ You can build the most elegant new governance model, but due to real world barri
 
 Now there are ways to help curtail this, such as a use of elections to ensure we create a rotation of who has the time and access to those tools.  Or ensuring all component governance pieces need to be "composable", so that the changing cost when a network moves from one governance model to a "forked and improved version" is negligible.  But that doesn't change that inherent risk of creating a technocracy when introducing new technology tools.  What we can say is that we're aware of this very real risk and are ensuring we take steps with the distrobution model for the tools we build.
 
-We plan to continue to address this with ideas from academia and other communities that have found novel ways to prevent these types of problems.  A good first step in our mind is setting up a council and working group.  If you're interested in this or have ideas, please reach out and contribute them to this section of the white paper.
+We plan to continue to address this with ideas from academia and other communities that have found novel ways to prevent these types of problems.  A good first step in our mind is setting up a council and working group.  Our strategy is to make this a workiong group of diverse voices, specifically pulling from communities of different study, socio-economic background, race, technology literacy, and working focus.  By having a diverse working group, we help to futher prevent the solutions from becoming inequitable to any one group.  If you're interested in this or have ideas, please reach out and contribute them to this section of the white paper.
 
 <!-- 
 (Previous notes + Doug's initial write up)
